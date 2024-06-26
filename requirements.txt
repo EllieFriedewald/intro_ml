@@ -1,0 +1,10 @@
+matplotlib
+numpy
+imageio
+scikit-learn
+scikit-image
+jupyter
+tensorflow
+tensorflow_addons
+pandas
+tqdm
